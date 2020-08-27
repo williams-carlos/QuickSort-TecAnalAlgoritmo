@@ -1,5 +1,7 @@
 package br.com.tecAnalisAlgoritmo;
 
+//teste de commit
+
 class QuickSort 
 { 
     /* This function takes last element as pivot, 
