@@ -1,4 +1,4 @@
 language: java
-java:
+jdk:
 	- 11.0.8
 	
